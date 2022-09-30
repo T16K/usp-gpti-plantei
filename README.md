@@ -27,6 +27,7 @@ Integrantes que participaram do SheHacks 2021 e que criaram a ideia do projeto P
 
 Integrantes da matéria GPTI que fizeram a gestão do projeto Plantei e o site estático.
 
+- [Gustavo Tsuyoshi Ariga](https://github.com/T16K)
 - [Henrique Tsuyoshi Yara](https://github.com/HTsuyoshi)
 - [Melissa Akie Inui](https://github.com/mee-akie)
 - [Willian Pinheiro](https://github.com/willpinha)
