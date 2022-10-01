@@ -4,23 +4,26 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Esse site estático é referente a um projeto vindo do [SheHacks](https://shehacks.xyz) 2021. Ele contém todos os documentos para
-gestão do projeto Plantei, seguindo o guia PMBOK (Project Management Body of Knowledge).
+Plantei é um projeto que teve suas origens no [SheHacks](https://shehacks.xyz) 2021. É um aplicativo mobile que ensina você a cultivar e cuidar de
+plantas para consumo alimentício. Nosso principal desafio com esse site é montar a gestão do projeto Plantei através do guia PMBOK, e apresentar o
+projeto na matéria de Gestão de Projetos de Tecnologia da Informação da Universidade de São Paulo
 
-## Grupo Plantei
+## Quem somos?
 
-Integrantes que participaram do SheHacks 2021 e que criaram a ideia do projeto Plantei.
+> As integrantes do SheHacks que criaram a ideia do Plantei são mencionadas [nesse link](https://github.com/willpinha/usp-gpti-plantei/blob/main/README.md)
+{: .prompt-info }
 
-- [Giane Mayumi Galhard](https://github.com/Anemaygi)
-- [Melissa Akie Inui](https://github.com/mee-akie)
-- [Sabrina Lopes Soares](https://github.com/sabslopes)
-- [Thais de Souza Rodrigues](https://github.com/thatarocket)
+![Guilherme](https://user-images.githubusercontent.com/86596621/193375670-9c84a9a9-de3c-4528-8f11-ae3d231bd18d.png){: .shadow .left width="100" }
+_Guilherme Kendji_
 
-## Grupo GPTI
+![Gustavo](https://user-images.githubusercontent.com/86596621/193375562-26b6d044-1ee9-4c51-899a-6acb8a90b963.png){: .shadow .left width="100" }
+_Gustavo Tsuyoshi Ariga_
 
-Integrantes da matéria GPTI que fizeram a gestão do projeto Plantei e o site estático.
+![Henrique](https://user-images.githubusercontent.com/86596621/193375584-0ea66b2f-d8dc-41ed-a1b7-52161ec248f5.png){: .shadow .left width="100" }
+_Henrique Tsuyoshi Yara_
 
-- [Gustavo Tsuyoshi Ariga](https://github.com/T16K)
-- [Henrique Tsuyoshi Yara](https://github.com/HTsuyoshi)
-- [Melissa Akie Inui](https://github.com/mee-akie)
-- [Willian Pinheiro](https://github.com/willpinha)
+![Melissa](https://user-images.githubusercontent.com/86596621/193375395-93e7e75c-c80c-432f-afee-fb13f0f00d46.png){: .shadow .left width="100" }
+_Melissa Akie Inui_
+
+![Willian](https://user-images.githubusercontent.com/86596621/193375505-cd9fe556-7194-414f-a0a6-afe9dc5d41b8.png){: .shadow .left width="100" }
+_Willian Pinheiro_
