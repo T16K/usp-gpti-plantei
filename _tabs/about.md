@@ -13,17 +13,17 @@ projeto na matéria de Gestão de Projetos de Tecnologia da Informação da Univ
 > As integrantes do SheHacks que criaram a ideia do Plantei são mencionadas [nesse link](https://github.com/willpinha/usp-gpti-plantei/blob/main/README.md)
 {: .prompt-info }
 
-![Guilherme](https://user-images.githubusercontent.com/86596621/193375670-9c84a9a9-de3c-4528-8f11-ae3d231bd18d.png){: .shadow .left width="100" }
-_Guilherme Kendji_
+### Guilherme Kendji
+![Guilherme](https://user-images.githubusercontent.com/86596621/193375670-9c84a9a9-de3c-4528-8f11-ae3d231bd18d.png){: .shadow width="150" .normal}
 
-![Gustavo](https://user-images.githubusercontent.com/86596621/193375562-26b6d044-1ee9-4c51-899a-6acb8a90b963.png){: .shadow .left width="100" }
-_Gustavo Tsuyoshi Ariga_
+### Gustavo Tsuyoshi Ariga
+![Gustavo](https://user-images.githubusercontent.com/86596621/193375562-26b6d044-1ee9-4c51-899a-6acb8a90b963.png){: .shadow width="150" .normal}
 
-![Henrique](https://user-images.githubusercontent.com/86596621/193375584-0ea66b2f-d8dc-41ed-a1b7-52161ec248f5.png){: .shadow .left width="100" }
-_Henrique Tsuyoshi Yara_
+### Henrique Tsuyoshi Yara
+![Henrique](https://user-images.githubusercontent.com/86596621/193375584-0ea66b2f-d8dc-41ed-a1b7-52161ec248f5.png){: .shadow width="150" .normal}
 
-![Melissa](https://user-images.githubusercontent.com/86596621/193375395-93e7e75c-c80c-432f-afee-fb13f0f00d46.png){: .shadow .left width="100" }
-_Melissa Akie Inui_
+### Melissa Akie Inui
+![Melissa](https://user-images.githubusercontent.com/86596621/193375395-93e7e75c-c80c-432f-afee-fb13f0f00d46.png){: .shadow width="150" .normal}
 
-![Willian](https://user-images.githubusercontent.com/86596621/193375505-cd9fe556-7194-414f-a0a6-afe9dc5d41b8.png){: .shadow .left width="100" }
-_Willian Pinheiro_
+### Willian Pinheiro
+![Willian](https://user-images.githubusercontent.com/86596621/193375505-cd9fe556-7194-414f-a0a6-afe9dc5d41b8.png){: .shadow width="150" .normal}
