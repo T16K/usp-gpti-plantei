@@ -23,7 +23,7 @@ timezone:
 
 title: Plantei                                        # the main title
 
-tagline: Gestão do projeto                            # it will display as the sub-title
+tagline: Documentos de gestão do projeto              # it will display as the sub-title
 
 description: >-                                       # used by seo meta and the atom feed
   Aplicativo para ensinar a cultivar e cuidar de plantas
