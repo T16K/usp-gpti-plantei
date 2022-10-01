@@ -11,5 +11,5 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 @mixin light-scheme {
-    $sidebar-bg: #e9f5db;
+    --sidebar-bg: #e9f5db;
 }
