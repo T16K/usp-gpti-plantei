@@ -3,7 +3,7 @@
 </div>
  
 # [USP - GPTI - Plantei](https://willpinha.github.io/usp-gpti-plantei)
-
+ 
 > 🌳 Site estático do projeto Plantei para a matéria Gestão de Projetos de Tecnologia da Informação
 
 ![Semestre](https://img.shields.io/badge/semestre-6sem--2022-success)
