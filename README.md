@@ -2,7 +2,7 @@
   <img alt="Plantei" width="120" src="https://user-images.githubusercontent.com/86596621/193365318-5036970e-17d2-4641-af1f-5ff89f17c2e9.png">
 </div>
  
-# [USP - GPTI - Plantei](https://willpinha.github.io/usp-gpti-plantei)
+# [USP - GPTI - Plantei](https://pinha-usp.github.io/usp-gpti-plantei)
  
 > 🌳 Site estático do projeto Plantei para a matéria Gestão de Projetos de Tecnologia da Informação
 
