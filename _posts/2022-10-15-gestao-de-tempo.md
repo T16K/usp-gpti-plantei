@@ -2,7 +2,7 @@
 title: Gestão de Tempo
 date: 2022-10-15
 categories: [Entregas, Primeira]
-tags: [gestão-tempo]
+tags: [gestão-de-tempo]
 ---
 
 # Cronograma:
