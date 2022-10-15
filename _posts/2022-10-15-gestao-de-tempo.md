@@ -30,4 +30,4 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 
 </div>
 
-Definição das tabelas para o BD $ \rightarrow $ Definição das tabelas para o BD no PostgreSQL
+Definição das tabelas para o BD $\rightarrow$ Definição das tabelas para o BD no PostgreSQL
