@@ -29,3 +29,5 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 | Back-End completo |  |  | [x] | [x] | [x] | [x] | [x] | [x] |
 
 </div>
+
+Definição das tabelas para o BD $ \rightarrow $ Definição das tabelas para o BD no PostgreSQL
