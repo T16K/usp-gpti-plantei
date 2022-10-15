@@ -13,7 +13,7 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 <div align="center">
 
 | Tarefa / Semana | 1~2 | 3~4 | 5~6 | 7~8 | 9~10 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Definição das tabelas para o BD | [x] |  |  |  |  |
 | Definição das tabelas para o BD no PostgreSQL | [x] | [x] |  |  |  |
 | Implementar as classes para as tabelas |  |  | [x] |  |  |
