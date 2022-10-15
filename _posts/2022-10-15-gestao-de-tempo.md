@@ -7,6 +7,6 @@ tags: [gestão-tempo]
 
 # Cronograma:
 
-![cronograma](./assets/img/tarefas/cronograma.png)
+![cronograma](../assets/img/tarefas/cronograma.png)
 
 # Caminho Crítico:
