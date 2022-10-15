@@ -16,9 +16,16 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Definição das tabelas para o BD | [x] |  |  |  |  |  |  |  |
 | Definição das tabelas para o BD no PostgreSQL |  | [x] | [x] |  |  |  |  |  |
-| Implementar as classes para as tabelas |  |  | [x] |  |  |  |  |  |
+| Implementar as classes para as tabelas |  |  | [x] | [x] | [x] |  |  |  |
 | Estrutura Inicial do Back-End | [x] | [x] |  |  |  |  |  |  |
 | Definição das tabelas do Front-End | [x] | [x] |  |  |  |  |  |  |
 | Telas estáticas |  |  | [x] | [x] | [x] |  |  |  |
+| Docker do projeto |  |  | [x] | [x] | [x] |  |  |  |
+| Consumo do API do Back-End |  |  |  |  | [x] | [x] | [x] |  |
+| Estrutura de busca/pesquisa |  |  |  | [x] | [x] | [x] | [x] |  |
+| Modelagem do BD |  |  | [x] | [x] | [x] | [x] | [x] |  |
+| Teste do BD Exemplo |  |  |  |  |  |  | [x] |  |
+| Front-End completo |  |  | [x] | [x] | [x] | [x] | [x] | [x] |
+| Back-End completo |  |  | [x] | [x] | [x] | [x] | [x] | [x] |
 
 </div>
