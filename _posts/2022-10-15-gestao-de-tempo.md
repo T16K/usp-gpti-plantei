@@ -37,11 +37,11 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 
 <br />
 
-Definição das tabelas para o BD $\rightarrow$ Definição das tabelas para o BD no PostgreSQL $\rightarrow$ Implementar as classes para as tabelas $\rightarrow$ Modelagem do BD $\rightarrow$ Teste do BD Exemplo
+Definição das tabelas para o BD $\rightarrow$ Definição das tabelas para o BD no PostgreSQL $\rightarrow$ Implementar as classes para as tabelas $\rightarrow$ **Modelagem do BD** $\rightarrow$ Teste do BD Exemplo
 
-Estrutura Inicial do Back-End $\rightarrow$ Consumo do API do Back-End $\rightarrow$ Back-End completo
+Estrutura Inicial do Back-End $\rightarrow$ Consumo do API do Back-End $\rightarrow$ **Back-End completo**
 
-Definição das tabelas do Front-End $\rightarrow$ Telas estáticas $\rightarrow$ Estrutura de busca/pesquisa $\rightarrow$ Front-End completo
+Definição das tabelas do Front-End $\rightarrow$ Telas estáticas $\rightarrow$ Estrutura de busca/pesquisa $\rightarrow$ **Front-End completo**
 
 Docker do projeto
 
