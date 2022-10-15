@@ -30,6 +30,6 @@ Identificar o caminho crítico, destacando as tarefas essenciais e separando-as 
 
 </div>
 
-<br />[5cm]
+<br />
 
 Definição das tabelas para o BD $\rightarrow$ Definição das tabelas para o BD no PostgreSQL $\rightarrow$ Modelagem do BD $\rightarrow$ Teste do BD Exemplo
