@@ -10,3 +10,5 @@ tags: [gestão-tempo]
 ![cronograma](../assets/img/tarefas/cronograma.png)
 
 # Caminho Crítico:
+
+![caminho-critoco](../assets/img/tarefas/caminho-critico.png)
