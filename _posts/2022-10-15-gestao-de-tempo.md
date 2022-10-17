@@ -5,10 +5,10 @@ categories: [Entregas, Primeira]
 tags: [gestão-de-tempo]
 ---
 
-# Cronograma:
+## Cronograma
 
-![cronograma](../assets/img/tarefas/cronograma.png)
+![cronograma](https://raw.githubusercontent.com/pinha-usp/usp-gpti-plantei/main/assets/img/tarefas/cronograma.png)
 
-# Caminho Crítico:
+## Caminho Crítico
 
-![caminho-critoco](../assets/img/tarefas/caminho-critico.png)
+![caminho-critoco](https://raw.githubusercontent.com/pinha-usp/usp-gpti-plantei/main/assets/img/tarefas/caminho-critico.png)
