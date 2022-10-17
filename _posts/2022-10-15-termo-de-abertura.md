@@ -21,6 +21,10 @@ alimentar, ensinando receitas fáceis e nutritivas a serem feitas utilizando sua
 
 # Estrutura Analítica do Projeto (EAP)
 
+A estrutura analítica do projeto, ou EAP, é um processo de subdivisão das entregas e do trabalho do projeto em componentes menores e mais 
+facilmente gerenciáveis. A EAP do projeto Plantei é dividida em três principais etapas: Estudos sobre hortas e plantações, Implementação do 
+aplicativo e Distribuição do aplicativo
+
 ![eap](https://raw.githubusercontent.com/pinha-usp/usp-gpti-plantei/main/assets/img/tarefas/eap.svg)
 
 # Principais requisitos dos produtos
