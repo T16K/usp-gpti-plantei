@@ -7,9 +7,15 @@ tags: [gestão-de-qualidade]
 
 # Gestão da Qualidade do Projeto
 
-## Parâmetros de Qualidade:
+## Parâmetros de Qualidade
 
-### Tempo:
+### Gastos financeiros
+
+- Orçamento restrito para colocar o aplicativo em um servidor mais potente
+
+- Custo para contratar um consultor especialista em plantas.
+
+### Tempo
 
 - Quebrar as atividades em sprints com metas claras a serem desenvolvidas durante este tempo
 
