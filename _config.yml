@@ -23,6 +23,8 @@ timezone:
 
 title: Plantei                                        # the main title
 
+future: true
+
 tagline: Documentos de gestão do projeto              # it will display as the sub-title
 
 description: >-                                       # used by seo meta and the atom feed
