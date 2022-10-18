@@ -3,6 +3,7 @@ title: Termo de abertura
 date: 2022-10-15
 categories: [Entregas, Primeira]
 tags: [termo-abertura]
+pin: true
 ---
 
 # Visão geral do projeto
@@ -77,7 +78,7 @@ Os principais requisitos do produto que também servirão como base para posteri
 - Escolher ,desde o inicio, as tecnologias que serão utilizadas  e garantindo que seja possível integrá-las no final, para que assim não tenhamos 
   conflitos nem dependências de versões e não tenhamos que trocar as ferramentas usadas no desenvolvimento no meio do projeto.
 
-# Gestão de tempo
+# Marcos
 
 ## Cronograma
 
