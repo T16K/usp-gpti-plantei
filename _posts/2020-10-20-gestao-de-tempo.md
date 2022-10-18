@@ -1,5 +1,5 @@
 ---
-title: Termo de abertura
+title: Gestão de tempo
 date: 2022-10-20
 categories: [Entregas, Primeira]
 tags: [gestao-tempo]
