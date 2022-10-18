@@ -1,9 +1,9 @@
 ---
+pin: true
 title: Termo de abertura
 date: 2022-10-20
 categories: [Entregas, Primeira]
 tags: [termo-abertura]
-pin: true
 ---
 
 # Visão geral do projeto
